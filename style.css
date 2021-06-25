@@ -1,0 +1,32 @@
+body{
+    background-color: #FFFFFF;
+}
+.title-text{
+    color: #363958;
+}
+header{
+    background-color: #FFFBF0;
+}
+.t-text{
+    color: #FABE4C;
+}
+.p-text{
+    color: 3E3E3E;
+}
+.tittle-2{
+    color: #363958;
+}
+.header_bg{
+    background-image: url("logo/bg-11.png");
+    background-repeat: no-repeat; /* Do not repeat the image */
+   
+}
+.header_bg img{
+    position: relative;
+    margin-top: -47px;
+    margin-left: 40px;
+}
+.logo-item{
+    height: 80px;
+    width: 70px;
+}
